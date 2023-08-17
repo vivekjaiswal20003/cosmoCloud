@@ -1,4 +1,4 @@
-# cosmoCloud
+# Eccomerce backend using python and fast api
 Hiring task 
 
 # conn.py 
